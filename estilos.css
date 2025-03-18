@@ -5,3 +5,22 @@
 .divs-facilidades {
     width: 325px;
 }
+
+.div-novidades {
+    width: 325px;
+}
+
+@media(min-width: 768px) {
+
+    .div-novidades {
+        width: 696px;
+    }
+}
+
+.cor-fluorescente{
+    color: #DAFF01;
+}
+
+.botoes-lilas{
+    background-color: #9353FF !important;
+}
